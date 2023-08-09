@@ -5,7 +5,7 @@ COLOR PALETTE
 #343434 - dark gray - almost black
 #2f3061 - blue dark
 #ffe66d - yellow
-#a1c6d7
+#a1c6d7 - light blue
 */
 
 /* Global Styles
@@ -26,11 +26,15 @@ header{
 
 /* Projects
 --------------------------------*/
-
+.projects{
+    background: #f7fff7;
+}
 
 /* Work Experience
 --------------------------------*/
-
+.work-experience{
+    background: #a1c6d7;
+}
 
 /* Education
 --------------------------------*/
