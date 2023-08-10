@@ -95,6 +95,10 @@ margin-right: 20px;
 .work-experience{
     background: #a1c6d7;
 }
+.job-item{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
 
 /* Education
 --------------------------------*/
