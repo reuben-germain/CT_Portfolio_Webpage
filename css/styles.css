@@ -22,16 +22,16 @@ a{
 a:hover{
     text-decoration: none;
 }
+.content-wrapper{
+    width: 950px;
+    margin: 0 auto;
+}
 
 /* Profile
 --------------------------------*/
 header{
     background-color: #2f3061;
     color: #f7fff7;
-}
-.content-wrapper{
-    width: 950px;
-    margin: 0 auto;
 }
 
 /* Projects
