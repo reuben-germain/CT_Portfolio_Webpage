@@ -113,4 +113,5 @@ footer{
 }
 .contact-list a{
     padding: 15px;
+    display: inline-block;
 }
