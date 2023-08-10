@@ -108,4 +108,5 @@ footer{
 .contact-list{
     list-style-type: none;
     padding: 0;
+    display: flex;
 }
