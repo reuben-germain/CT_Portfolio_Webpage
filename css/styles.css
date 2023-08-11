@@ -58,6 +58,10 @@ h3{
 .item-details h3 ~ p{
     margin: 0;
 }
+.divider > section{
+    border-bottom: 1px dashed #343434;
+    padding: 25px 0;
+}
 
 /* Profile
 --------------------------------*/
@@ -73,7 +77,7 @@ header{
     background: #f7fff7;
 }
 .projects a{
-
+color: #2f3061;
 }
 .projects .btn{
     color: #f7fff7;
@@ -88,8 +92,6 @@ header{
 }
 .project-item{
     overflow: hidden;
-    border-bottom: 1px dashed #343434;
-    padding: 25px 0;
 }
 .project-item img{
 float: left;
