@@ -106,11 +106,6 @@ color: #2f3061;
 .work-experience{
     background: #a1c6d7;
 }
-.job-item{
-    display: grid;
-    grid-template-columns: 1fr 2fr;
-    column-gap: 20px;
-}
 
 /* Education
 --------------------------------*/
@@ -149,4 +144,10 @@ footer{
         float: left;
         margin-right: 20px;
         }   
+
+        .job-item{
+            display: grid;
+            grid-template-columns: 1fr 2fr;
+            column-gap: 20px;
+        }
 }
