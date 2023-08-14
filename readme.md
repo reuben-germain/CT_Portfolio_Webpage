@@ -7,10 +7,6 @@
 ![Header](images/screenshots/header_ss.png)
 ---
 
-- Project Section
-
-![Project Section](images/screenshots/projects_ss.png)
----
 
 - Work Experience Section
   
